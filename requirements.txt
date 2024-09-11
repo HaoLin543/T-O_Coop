@@ -2,5 +2,6 @@ dash==2.6.0
 flask==2.0.3
 werkzeug==2.0.3
 pandas
+plotly
 openpyxl
 gunicorn
